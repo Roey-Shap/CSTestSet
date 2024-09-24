@@ -27,7 +27,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Sneaking Dile.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Sneaking Dile.jpg"
                         }
     },
     {
@@ -35,7 +35,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Secret Wrangler.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Secret Wrangler.jpg"
                         }
     },
     {
@@ -43,7 +43,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Ambitious Contortionist.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Ambitious Contortionist.jpg"
                         }
     },
     {
@@ -51,7 +51,7 @@
         "mana_cost":  "{3}{U}{U}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Secret-Gorger.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Secret-Gorger.jpg"
                         }
     },
     {
@@ -59,7 +59,7 @@
         "mana_cost":  "{1}{U/B}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Clandestilla.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Clandestilla.jpg"
                         }
     },
     {
@@ -67,7 +67,7 @@
         "mana_cost":  "{1}{U}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Fade to Mist.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Fade to Mist.jpg"
                         }
     },
     {
@@ -75,7 +75,7 @@
         "mana_cost":  "{U/B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Nimble Concealment.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Nimble Concealment.jpg"
                         }
     },
     {
@@ -83,7 +83,7 @@
         "mana_cost":  "{2}{B/G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Shaming Nymph.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Shaming Nymph.jpg"
                         }
     },
     {
@@ -91,7 +91,7 @@
         "mana_cost":  "{1}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Public Flogging.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Public Flogging.jpg"
                         }
     },
     {
@@ -99,7 +99,7 @@
         "mana_cost":  "{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mounting Storm.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mounting Storm.jpg"
                         }
     },
     {
@@ -107,7 +107,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Storm of Tears.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Storm of Tears.jpg"
                         }
     },
     {
@@ -115,7 +115,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Blundering Ninja.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Blundering Ninja.jpg"
                         }
     },
     {
@@ -123,7 +123,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Pure-Mind Trainee.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Pure-Mind Trainee.jpg"
                         }
     },
     {
@@ -131,7 +131,7 @@
         "mana_cost":  "{1}{G}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Branching Mutant.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Branching Mutant.jpg"
                         }
     },
     {
@@ -139,7 +139,7 @@
         "mana_cost":  "{B}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Haughty Gamble.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Haughty Gamble.jpg"
                         }
     },
     {
@@ -147,7 +147,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Riling Pyrodevil.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Riling Pyrodevil.jpg"
                         }
     },
     {
@@ -155,7 +155,7 @@
         "mana_cost":  "{1}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Clumsy Secretary.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Clumsy Secretary.jpg"
                         }
     },
     {
@@ -163,7 +163,7 @@
         "mana_cost":  "{1}{B/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Tactless Show-Host.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Tactless Show-Host.jpg"
                         }
     },
     {
@@ -171,7 +171,7 @@
         "mana_cost":  "{1}{W}{U}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Expose.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Expose.jpg"
                         }
     },
     {
@@ -179,7 +179,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mind-Read.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mind-Read.jpg"
                         }
     },
     {
@@ -187,7 +187,7 @@
         "mana_cost":  "{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Show of Power.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Show of Power.jpg"
                         }
     },
     {
@@ -195,7 +195,7 @@
         "mana_cost":  "{1}{R}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Obliging Confession.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Obliging Confession.jpg"
                         }
     },
     {
@@ -203,7 +203,7 @@
         "mana_cost":  "{U}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Excitable Weird.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Excitable Weird.jpg"
                         }
     },
     {
@@ -211,7 +211,7 @@
         "mana_cost":  "{3}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Celebratory Giant.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Celebratory Giant.jpg"
                         }
     },
     {
@@ -219,7 +219,7 @@
         "mana_cost":  "{2}{W}{W}",
         "type":  "Artifact Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Stone-Glare Officer.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Stone-Glare Officer.jpg"
                         }
     },
     {
@@ -227,7 +227,7 @@
         "mana_cost":  "{1}{R/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Headfirst Alpakon.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Headfirst Alpakon.jpg"
                         }
     },
     {
@@ -235,7 +235,7 @@
         "mana_cost":  "{1}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Pay in Confidence.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Pay in Confidence.jpg"
                         }
     },
     {
@@ -243,7 +243,7 @@
         "mana_cost":  "{B}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Preemptive Funeral.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Preemptive Funeral.jpg"
                         }
     },
     {
@@ -251,7 +251,7 @@
         "mana_cost":  "{6}{B/G}{B/G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Open Burial.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Open Burial.jpg"
                         }
     },
     {
@@ -259,7 +259,7 @@
         "mana_cost":  "{1}{B/G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Exposed Metal.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Exposed Metal.jpg"
                         }
     },
     {
@@ -267,7 +267,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Dead On Sight.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Dead On Sight.jpg"
                         }
     },
     {
@@ -275,7 +275,7 @@
         "mana_cost":  "{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Kickback.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Kickback.jpg"
                         }
     },
     {
@@ -283,7 +283,7 @@
         "mana_cost":  "{2}{U/R}{U/R}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Evaporating Wish.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Evaporating Wish.jpg"
                         }
     },
     {
@@ -291,7 +291,7 @@
         "mana_cost":  "{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Revealing Flash.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Revealing Flash.jpg"
                         }
     },
     {
@@ -299,7 +299,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Flash Fiend.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Flash Fiend.jpg"
                         }
     },
     {
@@ -307,7 +307,7 @@
         "mana_cost":  "{2}{G}{W}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Public Display of Affection.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Public Display of Affection.jpg"
                         }
     },
     {
@@ -315,7 +315,7 @@
         "mana_cost":  "{4}{G}{G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/The Chortle-Beast.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/The Chortle-Beast.jpg"
                         }
     },
     {
@@ -323,7 +323,7 @@
         "mana_cost":  "{2}{W}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Law-Bind Eagle.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Law-Bind Eagle.jpg"
                         }
     },
     {
@@ -331,7 +331,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Brazen Hawk.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Brazen Hawk.jpg"
                         }
     },
     {
@@ -339,7 +339,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/War-Cry Roc.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/War-Cry Roc.jpg"
                         }
     },
     {
@@ -347,7 +347,7 @@
         "mana_cost":  "{3}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Shrieking Vulture.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Shrieking Vulture.jpg"
                         }
     },
     {
@@ -355,7 +355,7 @@
         "mana_cost":  "{2}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Swift-Swipe Sugarglider.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Swift-Swipe Sugarglider.jpg"
                         }
     },
     {
@@ -363,7 +363,7 @@
         "mana_cost":  "{R/W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Death-Leap Messenger.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Death-Leap Messenger.jpg"
                         }
     },
     {
@@ -371,7 +371,7 @@
         "mana_cost":  "{3}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Thunder Chief.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Thunder Chief.jpg"
                         }
     },
     {
@@ -379,7 +379,7 @@
         "mana_cost":  "{1}{G/W}{G/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Courageous Yaunling.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Courageous Yaunling.jpg"
                         }
     },
     {
@@ -387,7 +387,7 @@
         "mana_cost":  "{2}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Nervous Digger.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Nervous Digger.jpg"
                         }
     },
     {
@@ -395,7 +395,7 @@
         "mana_cost":  "{B}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Throw Under the Bus.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Throw Under the Bus.jpg"
                         }
     },
     {
@@ -403,7 +403,7 @@
         "mana_cost":  "{3}{U}{B}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Prinoc, Outraged.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Prinoc, Outraged.jpg"
                         }
     },
     {
@@ -411,7 +411,7 @@
         "mana_cost":  "{1}{G/W}{G/W}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Soul-Weave.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Soul-Weave.jpg"
                         }
     },
     {
@@ -419,7 +419,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Geist-Grove.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Geist-Grove.jpg"
                         }
     },
     {
@@ -427,7 +427,7 @@
         "mana_cost":  "{1}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Imminent-Flame Crollock.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Imminent-Flame Crollock.jpg"
                         }
     },
     {
@@ -435,7 +435,7 @@
         "mana_cost":  "{2}{U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Feed With Security.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Feed With Security.jpg"
                         }
     },
     {
@@ -443,7 +443,7 @@
         "mana_cost":  "{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mosh Raven.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mosh Raven.jpg"
                         }
     },
     {
@@ -451,7 +451,7 @@
         "mana_cost":  "{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Nauseating Teleport.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Nauseating Teleport.jpg"
                         }
     },
     {
@@ -459,7 +459,7 @@
         "mana_cost":  "{3}{U/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Blood-Vent Mage.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Blood-Vent Mage.jpg"
                         }
     },
     {
@@ -467,7 +467,7 @@
         "mana_cost":  "{U/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Oversee.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Oversee.jpg"
                         }
     },
     {
@@ -475,7 +475,7 @@
         "mana_cost":  "{1}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Rummaging Mapmaker.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Rummaging Mapmaker.jpg"
                         }
     },
     {
@@ -483,7 +483,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Quickstep Medic.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Quickstep Medic.jpg"
                         }
     },
     {
@@ -491,7 +491,7 @@
         "mana_cost":  "{1}{U/R}{U/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Practical Spellcaster.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Practical Spellcaster.jpg"
                         }
     },
     {
@@ -499,7 +499,7 @@
         "mana_cost":  "{2}{B/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Harried Gravedigger.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Harried Gravedigger.jpg"
                         }
     },
     {
@@ -507,7 +507,7 @@
         "mana_cost":  "{2}{W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Soul Sister.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Soul Sister.jpg"
                         }
     },
     {
@@ -515,7 +515,7 @@
         "mana_cost":  "{4}{W}{U}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Spirit-Pact Pegasus.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Spirit-Pact Pegasus.jpg"
                         }
     },
     {
@@ -523,7 +523,7 @@
         "mana_cost":  "{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Allie's Cat.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Allie's Cat.jpg"
                         }
     },
     {
@@ -531,7 +531,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Starfall Geist.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Starfall Geist.jpg"
                         }
     },
     {
@@ -539,7 +539,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Calling Point.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Calling Point.jpg"
                         }
     },
     {
@@ -547,7 +547,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Place Between Tides.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Place Between Tides.jpg"
                         }
     },
     {
@@ -555,7 +555,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Shadow's Reflection.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Shadow's Reflection.jpg"
                         }
     },
     {
@@ -563,7 +563,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Flamespire.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Flamespire.jpg"
                         }
     },
     {
@@ -571,7 +571,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/The World-Quick.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/The World-Quick.jpg"
                         }
     },
     {
@@ -579,7 +579,7 @@
         "mana_cost":  "{G}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Aphrodisic Entertainer.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Aphrodisic Entertainer.jpg"
                         }
     },
     {
@@ -587,7 +587,7 @@
         "mana_cost":  "{3}{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Goated.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Goated.jpg"
                         }
     },
     {
@@ -595,7 +595,7 @@
         "mana_cost":  "{5}{R}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Lava-Geyser Ejectid.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Lava-Geyser Ejectid.jpg"
                         }
     },
     {
@@ -603,7 +603,7 @@
         "mana_cost":  "{2}{U}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Ruthless Headmaster.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Ruthless Headmaster.jpg"
                         }
     },
     {
@@ -611,7 +611,7 @@
         "mana_cost":  "{3}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Great-Wing Priestess.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Great-Wing Priestess.jpg"
                         }
     },
     {
@@ -619,7 +619,7 @@
         "mana_cost":  "{4}{U}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Trickster Trago.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Trickster Trago.jpg"
                         }
     },
     {
@@ -627,7 +627,7 @@
         "mana_cost":  "{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Skitterjill.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Skitterjill.jpg"
                         }
     },
     {
@@ -635,7 +635,7 @@
         "mana_cost":  "{1}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mocking Bard.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mocking Bard.jpg"
                         }
     },
     {
@@ -643,7 +643,7 @@
         "mana_cost":  "{5}{G}{G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Overcharged Spore Behemoth.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Overcharged Spore Behemoth.jpg"
                         }
     },
     {
@@ -651,7 +651,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Lethargic Drakus.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Lethargic Drakus.jpg"
                         }
     },
     {
@@ -659,7 +659,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Fiesty Rollick.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Fiesty Rollick.jpg"
                         }
     },
     {
@@ -667,7 +667,7 @@
         "mana_cost":  "{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Dancefloor Dragger.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Dancefloor Dragger.jpg"
                         }
     },
     {
@@ -675,7 +675,7 @@
         "mana_cost":  "{2}{B/R}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Deathmist Detonation.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Deathmist Detonation.jpg"
                         }
     },
     {
@@ -683,7 +683,7 @@
         "mana_cost":  "{1}{G/W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Spirit Spear.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Spirit Spear.jpg"
                         }
     },
     {
@@ -691,7 +691,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Incendiary Canary.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Incendiary Canary.jpg"
                         }
     },
     {
@@ -699,7 +699,7 @@
         "mana_cost":  "{R}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Terra-Reformist.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Terra-Reformist.jpg"
                         }
     },
     {
@@ -707,7 +707,7 @@
         "mana_cost":  "{1}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Juju Farmer.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Juju Farmer.jpg"
                         }
     },
     {
@@ -715,7 +715,7 @@
         "mana_cost":  "{R}{G}",
         "type":  "Instant ",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Floral Fling.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Floral Fling.jpg"
                         }
     },
     {
@@ -723,7 +723,7 @@
         "mana_cost":  "{B}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Gravefling.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Gravefling.jpg"
                         }
     },
     {
@@ -731,7 +731,7 @@
         "mana_cost":  "{U}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Tumorfling.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Tumorfling.jpg"
                         }
     },
     {
@@ -739,7 +739,7 @@
         "mana_cost":  "{U}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Tensionfling.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Tensionfling.jpg"
                         }
     },
     {
@@ -747,7 +747,7 @@
         "mana_cost":  "{1}{W}{B}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Conjuring the Masses.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Conjuring the Masses.jpg"
                         }
     },
     {
@@ -755,7 +755,7 @@
         "mana_cost":  "{W}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Collective Wail.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Collective Wail.jpg"
                         }
     },
     {
@@ -763,7 +763,7 @@
         "mana_cost":  "{1}{B}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Lifeforce Extraction.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Lifeforce Extraction.jpg"
                         }
     },
     {
@@ -771,7 +771,7 @@
         "mana_cost":  "{5}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/The Obsidian.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/The Obsidian.jpg"
                         }
     },
     {
@@ -779,7 +779,7 @@
         "mana_cost":  "{2}{G/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Terraformer Monk.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Terraformer Monk.jpg"
                         }
     },
     {
@@ -787,7 +787,7 @@
         "mana_cost":  "{1}{R}{R}{W}{W}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Granel, Lie-Torcher.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Granel, Lie-Torcher.jpg"
                         }
     },
     {
@@ -795,7 +795,7 @@
         "mana_cost":  "{2}{R/G}{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Slide In.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Slide In.jpg"
                         }
     },
     {
@@ -803,7 +803,7 @@
         "mana_cost":  "{G/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Force Behind.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Force Behind.jpg"
                         }
     },
     {
@@ -811,7 +811,7 @@
         "mana_cost":  "{G/W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Survival Instinct.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Survival Instinct.jpg"
                         }
     },
     {
@@ -819,7 +819,7 @@
         "mana_cost":  "{R/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Pack Dog.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Pack Dog.jpg"
                         }
     },
     {
@@ -827,7 +827,7 @@
         "mana_cost":  "{B}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Cunning Mink.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Cunning Mink.jpg"
                         }
     },
     {
@@ -835,7 +835,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Snapstrike Una.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Snapstrike Una.jpg"
                         }
     },
     {
@@ -843,7 +843,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Likeminded Tactician.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Likeminded Tactician.jpg"
                         }
     },
     {
@@ -851,7 +851,7 @@
         "mana_cost":  "{2}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Relentless Fortification.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Relentless Fortification.jpg"
                         }
     },
     {
@@ -859,7 +859,7 @@
         "mana_cost":  "{3}{2/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Stone-Tosser Golem.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Stone-Tosser Golem.jpg"
                         }
     },
     {
@@ -867,7 +867,7 @@
         "mana_cost":  "{4}{W}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Strength of the Age.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Strength of the Age.jpg"
                         }
     },
     {
@@ -875,7 +875,7 @@
         "mana_cost":  "{1}{W/B}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Illusory Forces.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Illusory Forces.jpg"
                         }
     },
     {
@@ -883,7 +883,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/High-Ear Strike Captain.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/High-Ear Strike Captain.jpg"
                         }
     },
     {
@@ -891,7 +891,7 @@
         "mana_cost":  "{2}{W}{W}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Brute-Boxer Janth.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Brute-Boxer Janth.jpg"
                         }
     },
     {
@@ -899,7 +899,7 @@
         "mana_cost":  "{R/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Encouraging Bixy.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Encouraging Bixy.jpg"
                         }
     },
     {
@@ -907,7 +907,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Worldly Navi-Gator.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Worldly Navi-Gator.jpg"
                         }
     },
     {
@@ -915,7 +915,7 @@
         "mana_cost":  "{5}{W}{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Crumblestorm.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Crumblestorm.jpg"
                         }
     },
     {
@@ -923,7 +923,7 @@
         "mana_cost":  "{3}{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Collective Cover.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Collective Cover.jpg"
                         }
     },
     {
@@ -931,7 +931,7 @@
         "mana_cost":  "{2}{W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Curihoust.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Curihoust.jpg"
                         }
     },
     {
@@ -939,7 +939,7 @@
         "mana_cost":  "{1}{W/B}{W/B}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Scardiest Cat.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Scardiest Cat.jpg"
                         }
     },
     {
@@ -947,7 +947,7 @@
         "mana_cost":  "{2}{W/U}{W/U}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/The Second Wind.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/The Second Wind.jpg"
                         }
     },
     {
@@ -955,7 +955,7 @@
         "mana_cost":  "{1}{U}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Cape Flip.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Cape Flip.jpg"
                         }
     },
     {
@@ -963,7 +963,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Soul Sear.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Soul Sear.jpg"
                         }
     },
     {
@@ -971,7 +971,7 @@
         "mana_cost":  "{1}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Sniveling Snake.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Sniveling Snake.jpg"
                         }
     },
     {
@@ -979,7 +979,7 @@
         "mana_cost":  "{1}{W/U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Encouragement.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Encouragement.jpg"
                         }
     },
     {
@@ -987,7 +987,7 @@
         "mana_cost":  "{1}{R/G}",
         "type":  "Enchantment ",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Overrun.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Overrun.jpg"
                         }
     },
     {
@@ -995,7 +995,7 @@
         "mana_cost":  "{2}{W}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Active Duty Bonus.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Active Duty Bonus.jpg"
                         }
     },
     {
@@ -1003,7 +1003,7 @@
         "mana_cost":  "{3}{W}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/High-Brow Gatekeeper.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/High-Brow Gatekeeper.jpg"
                         }
     },
     {
@@ -1011,7 +1011,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Tap-Dancing Heron.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Tap-Dancing Heron.jpg"
                         }
     },
     {
@@ -1019,7 +1019,7 @@
         "mana_cost":  "{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Reinforcement Whale.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Reinforcement Whale.jpg"
                         }
     },
     {
@@ -1027,7 +1027,7 @@
         "mana_cost":  "{1}{B/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Carrion Bird.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Carrion Bird.jpg"
                         }
     },
     {
@@ -1035,7 +1035,7 @@
         "mana_cost":  "{1}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Devoted Bombardier.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Devoted Bombardier.jpg"
                         }
     },
     {
@@ -1043,7 +1043,7 @@
         "mana_cost":  "{2}{B/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Oozing Oozer.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Oozing Oozer.jpg"
                         }
     },
     {
@@ -1051,7 +1051,7 @@
         "mana_cost":  "{2}{W/U}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Free Spirit.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Free Spirit.jpg"
                         }
     },
     {
@@ -1059,7 +1059,7 @@
         "mana_cost":  "{B/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Manglevine.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Manglevine.jpg"
                         }
     },
     {
@@ -1067,7 +1067,7 @@
         "mana_cost":  "{1}{G}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Invasive Sproutkin.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Invasive Sproutkin.jpg"
                         }
     },
     {
@@ -1075,7 +1075,7 @@
         "mana_cost":  "{1}{W}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Relentless Pursuit.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Relentless Pursuit.jpg"
                         }
     },
     {
@@ -1083,7 +1083,7 @@
         "mana_cost":  "{3}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Future in Flames.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Future in Flames.jpg"
                         }
     },
     {
@@ -1091,7 +1091,7 @@
         "mana_cost":  "{W}{W}{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Dust Slice.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Dust Slice.jpg"
                         }
     },
     {
@@ -1099,7 +1099,7 @@
         "mana_cost":  "{U}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Accept the Facts.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Accept the Facts.jpg"
                         }
     },
     {
@@ -1107,7 +1107,7 @@
         "mana_cost":  "{1}{W/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Invasive Denial.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Invasive Denial.jpg"
                         }
     },
     {
@@ -1115,7 +1115,7 @@
         "mana_cost":  "{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Halt.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Halt.jpg"
                         }
     },
     {
@@ -1123,7 +1123,7 @@
         "mana_cost":  "{G/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Absorb Shock.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Absorb Shock.jpg"
                         }
     },
     {
@@ -1131,7 +1131,7 @@
         "mana_cost":  "{W/B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Out.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Out.jpg"
                         }
     },
     {
@@ -1139,7 +1139,7 @@
         "mana_cost":  "{1}{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Manashower.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Manashower.jpg"
                         }
     },
     {
@@ -1147,7 +1147,7 @@
         "mana_cost":  "{2}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Devil-Grin Captain.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Devil-Grin Captain.jpg"
                         }
     },
     {
@@ -1155,7 +1155,7 @@
         "mana_cost":  "{1}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Acceptance.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Acceptance.jpg"
                         }
     },
     {
@@ -1163,7 +1163,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Postmortem Author.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Postmortem Author.jpg"
                         }
     },
     {
@@ -1171,7 +1171,7 @@
         "mana_cost":  "{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Overexcite.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Overexcite.jpg"
                         }
     },
     {
@@ -1179,7 +1179,7 @@
         "mana_cost":  "{1}{B}{B/P}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Plague Bearer.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Plague Bearer.jpg"
                         }
     },
     {
@@ -1187,7 +1187,7 @@
         "mana_cost":  "{2}{2/B}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Death-Defying Hookshot.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Death-Defying Hookshot.jpg"
                         }
     },
     {
@@ -1195,7 +1195,7 @@
         "mana_cost":  "{4}{W}{W}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/The Missing Fragment.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/The Missing Fragment.jpg"
                         }
     },
     {
@@ -1203,7 +1203,7 @@
         "mana_cost":  "{6}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Drakus of Volcanic Storms.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Drakus of Volcanic Storms.jpg"
                         }
     },
     {
@@ -1211,7 +1211,7 @@
         "mana_cost":  "{2}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Divine Bullhorn.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Divine Bullhorn.jpg"
                         }
     },
     {
@@ -1219,7 +1219,7 @@
         "mana_cost":  "{3}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Persistent Tuyon.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Persistent Tuyon.jpg"
                         }
     },
     {
@@ -1227,7 +1227,7 @@
         "mana_cost":  "{2}{R/G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Ambitious Gambit.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Ambitious Gambit.jpg"
                         }
     },
     {
@@ -1235,7 +1235,7 @@
         "mana_cost":  "{B/G}{B/G}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Afterlife Leech.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Afterlife Leech.jpg"
                         }
     },
     {
@@ -1243,7 +1243,7 @@
         "mana_cost":  "{R}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Fuse-burners.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Fuse-burners.jpg"
                         }
     },
     {
@@ -1251,7 +1251,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Enlisting Trickster.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Enlisting Trickster.jpg"
                         }
     },
     {
@@ -1259,7 +1259,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Compulsive Maniac.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Compulsive Maniac.jpg"
                         }
     },
     {
@@ -1267,7 +1267,7 @@
         "mana_cost":  "{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Meek Saboteur.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Meek Saboteur.jpg"
                         }
     },
     {
@@ -1275,7 +1275,7 @@
         "mana_cost":  "{G/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Well-Travelled Alpakon.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Well-Travelled Alpakon.jpg"
                         }
     },
     {
@@ -1283,7 +1283,7 @@
         "mana_cost":  "{X}{5}{G/W}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mother Alpakon.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mother Alpakon.jpg"
                         }
     },
     {
@@ -1291,7 +1291,7 @@
         "mana_cost":  "{3}{U}{U}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Frozen Dragon.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Frozen Dragon.jpg"
                         }
     },
     {
@@ -1299,7 +1299,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Frozen Dragon's Gaze.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Frozen Dragon's Gaze.jpg"
                         }
     },
     {
@@ -1307,7 +1307,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Hoarding Gobling.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Hoarding Gobling.jpg"
                         }
     },
     {
@@ -1315,7 +1315,7 @@
         "mana_cost":  "{1}{B/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mossroamer.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mossroamer.jpg"
                         }
     },
     {
@@ -1323,7 +1323,7 @@
         "mana_cost":  "{2}{B}{G}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Regrowl.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Regrowl.jpg"
                         }
     },
     {
@@ -1331,7 +1331,7 @@
         "mana_cost":  "{2}{R/W}{R/W}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Viss, the Dauntless.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Viss, the Dauntless.jpg"
                         }
     },
     {
@@ -1339,7 +1339,7 @@
         "mana_cost":  "{U/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Call Out.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Call Out.jpg"
                         }
     },
     {
@@ -1347,7 +1347,7 @@
         "mana_cost":  "{2}{U/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Flicker Bolt.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Flicker Bolt.jpg"
                         }
     },
     {
@@ -1355,7 +1355,7 @@
         "mana_cost":  "{R}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Spontaneous Bet.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Spontaneous Bet.jpg"
                         }
     },
     {
@@ -1363,7 +1363,7 @@
         "mana_cost":  "{R}{R}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Battlefield Confusion.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Battlefield Confusion.jpg"
                         }
     },
     {
@@ -1371,7 +1371,7 @@
         "mana_cost":  "{4}{B}{B}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Void Dweller.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Void Dweller.jpg"
                         }
     },
     {
@@ -1379,7 +1379,7 @@
         "mana_cost":  "{3}{B/P}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Birdcrank.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Birdcrank.jpg"
                         }
     },
     {
@@ -1387,7 +1387,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Wingmate Momentum.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Wingmate Momentum.jpg"
                         }
     },
     {
@@ -1395,7 +1395,7 @@
         "mana_cost":  "{2}{W/B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Stumbling Flight.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Stumbling Flight.jpg"
                         }
     },
     {
@@ -1403,7 +1403,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Feeding Wraith.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Feeding Wraith.jpg"
                         }
     },
     {
@@ -1411,7 +1411,7 @@
         "mana_cost":  "{5}{G}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Revel in Might.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Revel in Might.jpg"
                         }
     },
     {
@@ -1419,7 +1419,7 @@
         "mana_cost":  "{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Diminishing Voices.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Diminishing Voices.jpg"
                         }
     },
     {
@@ -1427,7 +1427,7 @@
         "mana_cost":  "{1}{U/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Piggy-Back Deconstructor.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Piggy-Back Deconstructor.jpg"
                         }
     },
     {
@@ -1435,7 +1435,7 @@
         "mana_cost":  "{2}{B}{B}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Aisul, the Solitary Flame.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Aisul, the Solitary Flame.jpg"
                         }
     },
     {
@@ -1443,7 +1443,7 @@
         "mana_cost":  "{2}{G/U}{G/U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/March the Foothills.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/March the Foothills.jpg"
                         }
     },
     {
@@ -1451,7 +1451,7 @@
         "mana_cost":  "{2}{B}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Indecisive Threat.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Indecisive Threat.jpg"
                         }
     },
     {
@@ -1459,7 +1459,7 @@
         "mana_cost":  "{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Condescending Dismissal.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Condescending Dismissal.jpg"
                         }
     },
     {
@@ -1467,7 +1467,7 @@
         "mana_cost":  "{2}{B/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Unconfident Pute.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Unconfident Pute.jpg"
                         }
     },
     {
@@ -1475,7 +1475,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Burrowing Moledon.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Burrowing Moledon.jpg"
                         }
     },
     {
@@ -1483,7 +1483,7 @@
         "mana_cost":  "{W}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Rallying Wimp.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Rallying Wimp.jpg"
                         }
     },
     {
@@ -1491,7 +1491,7 @@
         "mana_cost":  "{R}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mirthful Stomping.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mirthful Stomping.jpg"
                         }
     },
     {
@@ -1499,7 +1499,7 @@
         "mana_cost":  "{X}{W}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Scatterbomb.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Scatterbomb.jpg"
                         }
     },
     {
@@ -1507,7 +1507,7 @@
         "mana_cost":  "{2}{B}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Showcropper.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Showcropper.jpg"
                         }
     },
     {
@@ -1515,7 +1515,7 @@
         "mana_cost":  "{6}{U}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Therapy Whale.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Therapy Whale.jpg"
                         }
     },
     {
@@ -1523,7 +1523,7 @@
         "mana_cost":  "{2}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Hallway Studier.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Hallway Studier.jpg"
                         }
     },
     {
@@ -1531,7 +1531,7 @@
         "mana_cost":  "{2}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Library Shrieker.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Library Shrieker.jpg"
                         }
     },
     {
@@ -1539,7 +1539,7 @@
         "mana_cost":  "{2}{U/B}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Imposing Aura.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Imposing Aura.jpg"
                         }
     },
     {
@@ -1547,7 +1547,7 @@
         "mana_cost":  "{1}{U}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Feast of Waking Dreams.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Feast of Waking Dreams.jpg"
                         }
     },
     {
@@ -1555,7 +1555,7 @@
         "mana_cost":  "{2}{R}{R}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mob Momentum.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mob Momentum.jpg"
                         }
     },
     {
@@ -1563,7 +1563,7 @@
         "mana_cost":  "{2}{R/G}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Hit the Ground Running.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Hit the Ground Running.jpg"
                         }
     },
     {
@@ -1571,7 +1571,7 @@
         "mana_cost":  "{1}{B/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Composted Farmer.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Composted Farmer.jpg"
                         }
     },
     {
@@ -1579,7 +1579,7 @@
         "mana_cost":  "{2}{U}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Wide-Stance Visionary.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Wide-Stance Visionary.jpg"
                         }
     },
     {
@@ -1587,7 +1587,7 @@
         "mana_cost":  "{3}{B}{B}",
         "type":  "Legendary Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Impression of Greed.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Impression of Greed.jpg"
                         }
     },
     {
@@ -1595,7 +1595,7 @@
         "mana_cost":  "{2}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Plant Slowly.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Plant Slowly.jpg"
                         }
     },
     {
@@ -1603,7 +1603,7 @@
         "mana_cost":  "{3}{G/U}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Overgenerous Symbiote.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Overgenerous Symbiote.jpg"
                         }
     },
     {
@@ -1611,7 +1611,7 @@
         "mana_cost":  "{2}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Unconfident War Elephant.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Unconfident War Elephant.jpg"
                         }
     },
     {
@@ -1619,7 +1619,7 @@
         "mana_cost":  "{1}{G/U}{R/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Shroom Gator Randy.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Shroom Gator Randy.jpg"
                         }
     },
     {
@@ -1627,7 +1627,7 @@
         "mana_cost":  "{W/B}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Ninth Life.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Ninth Life.jpg"
                         }
     },
     {
@@ -1635,7 +1635,7 @@
         "mana_cost":  "{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Reoccuring Bullying.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Reoccuring Bullying.jpg"
                         }
     },
     {
@@ -1643,7 +1643,7 @@
         "mana_cost":  "{R/W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Turn Brave.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Turn Brave.jpg"
                         }
     },
     {
@@ -1651,7 +1651,7 @@
         "mana_cost":  "{B/R}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Dweeb Detector.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Dweeb Detector.jpg"
                         }
     },
     {
@@ -1659,7 +1659,7 @@
         "mana_cost":  "{2}{U/R}",
         "type":  "Artifact Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Red-Hot Hooves.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Red-Hot Hooves.jpg"
                         }
     },
     {
@@ -1667,7 +1667,7 @@
         "mana_cost":  "{2}{W}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Final Day.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Final Day.jpg"
                         }
     },
     {
@@ -1675,7 +1675,7 @@
         "mana_cost":  "{R}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Olfactory Disrupter.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Olfactory Disrupter.jpg"
                         }
     },
     {
@@ -1683,7 +1683,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Up-Front Mercenary.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Up-Front Mercenary.jpg"
                         }
     },
     {
@@ -1691,7 +1691,7 @@
         "mana_cost":  "{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Lemme See!.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Lemme See!.jpg"
                         }
     },
     {
@@ -1699,7 +1699,7 @@
         "mana_cost":  "{3}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Nosey Officer.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Nosey Officer.jpg"
                         }
     },
     {
@@ -1707,7 +1707,7 @@
         "mana_cost":  "{2}{G}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Worldtree Adherent.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Worldtree Adherent.jpg"
                         }
     },
     {
@@ -1715,7 +1715,7 @@
         "mana_cost":  "{1}{G}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Inviting Shroomling.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Inviting Shroomling.jpg"
                         }
     },
     {
@@ -1723,7 +1723,7 @@
         "mana_cost":  "{6}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Owhale.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Owhale.jpg"
                         }
     },
     {
@@ -1731,7 +1731,7 @@
         "mana_cost":  "{1}{U}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Exploitative Liz.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Exploitative Liz.jpg"
                         }
     },
     {
@@ -1739,7 +1739,7 @@
         "mana_cost":  "{U}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Reattempt.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Reattempt.jpg"
                         }
     },
     {
@@ -1747,7 +1747,7 @@
         "mana_cost":  "{B}{B}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Renee, Regretful Traveller.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Renee, Regretful Traveller.jpg"
                         }
     },
     {
@@ -1755,7 +1755,7 @@
         "mana_cost":  "{2}{W}{W}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Brutal Honesty.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Brutal Honesty.jpg"
                         }
     },
     {
@@ -1763,7 +1763,7 @@
         "mana_cost":  "{1}{B/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Honest Brutality.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Honest Brutality.jpg"
                         }
     },
     {
@@ -1771,7 +1771,7 @@
         "mana_cost":  "{R}",
         "type":  "Instant ",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Direct Bolt.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Direct Bolt.jpg"
                         }
     },
     {
@@ -1779,7 +1779,7 @@
         "mana_cost":  "{1}{W}{R/G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mirru, One With Her Army.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mirru, One With Her Army.jpg"
                         }
     },
     {
@@ -1787,7 +1787,7 @@
         "mana_cost":  "{3}{G/U}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Unashamed Thoughts.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Unashamed Thoughts.jpg"
                         }
     },
     {
@@ -1795,7 +1795,7 @@
         "mana_cost":  "{1}{G}{G}{G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Okal, Overgrown Gardener.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Okal, Overgrown Gardener.jpg"
                         }
     },
     {
@@ -1803,7 +1803,7 @@
         "mana_cost":  "{U}{G/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Enveloping Hills.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Enveloping Hills.jpg"
                         }
     },
     {
@@ -1811,7 +1811,7 @@
         "mana_cost":  "{2}{B}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Grave-Gardener.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Grave-Gardener.jpg"
                         }
     },
     {
@@ -1819,7 +1819,7 @@
         "mana_cost":  "{1}{B/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Ever-Raging Terrance.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Ever-Raging Terrance.jpg"
                         }
     },
     {
@@ -1827,7 +1827,7 @@
         "mana_cost":  "{2}{W/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Ancient Nestite.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Ancient Nestite.jpg"
                         }
     },
     {
@@ -1835,7 +1835,7 @@
         "mana_cost":  "{1}{G/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Resis, Garden Assistant.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Resis, Garden Assistant.jpg"
                         }
     },
     {
@@ -1843,7 +1843,7 @@
         "mana_cost":  "{2}{W/B}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Spirit Circle.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Spirit Circle.jpg"
                         }
     },
     {
@@ -1851,7 +1851,7 @@
         "mana_cost":  "{2}{U}{W/B}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Truth Crystal.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Truth Crystal.jpg"
                         }
     },
     {
@@ -1859,7 +1859,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Flaminghost.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Flaminghost.jpg"
                         }
     },
     {
@@ -1867,7 +1867,7 @@
         "mana_cost":  "{2}{B/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Goblidant.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Goblidant.jpg"
                         }
     },
     {
@@ -1875,7 +1875,7 @@
         "mana_cost":  "{3}{B/G}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Reharvest Engine.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Reharvest Engine.jpg"
                         }
     },
     {
@@ -1883,7 +1883,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Swelling Field.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Swelling Field.jpg"
                         }
     },
     {
@@ -1891,7 +1891,7 @@
         "mana_cost":  "{U}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Group Rebuttal.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Group Rebuttal.jpg"
                         }
     },
     {
@@ -1899,7 +1899,7 @@
         "mana_cost":  "{7}{B/G}{B/G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/It That Arrives.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/It That Arrives.jpg"
                         }
     },
     {
@@ -1907,7 +1907,7 @@
         "mana_cost":  "{W}{B}{R}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Glittering Starchild.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Glittering Starchild.jpg"
                         }
     },
     {
@@ -1915,7 +1915,7 @@
         "mana_cost":  "{B/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Snatch.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Snatch.jpg"
                         }
     },
     {
@@ -1923,7 +1923,7 @@
         "mana_cost":  "{4}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Gargantuan Nail Trap.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Gargantuan Nail Trap.jpg"
                         }
     },
     {
@@ -1931,7 +1931,7 @@
         "mana_cost":  "{1}{W}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Whitehair Hare.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Whitehair Hare.jpg"
                         }
     },
     {
@@ -1939,7 +1939,7 @@
         "mana_cost":  "{W}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Looking Up To Bro.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Looking Up To Bro.jpg"
                         }
     },
     {
@@ -1947,7 +1947,7 @@
         "mana_cost":  "{2}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Cheer Cedar.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Cheer Cedar.jpg"
                         }
     },
     {
@@ -1955,7 +1955,7 @@
         "mana_cost":  "{3}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Rhino Dan.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Rhino Dan.jpg"
                         }
     },
     {
@@ -1963,7 +1963,7 @@
         "mana_cost":  "{1}{2/W}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Rearming Station.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Rearming Station.jpg"
                         }
     },
     {
@@ -1971,7 +1971,7 @@
         "mana_cost":  "{2}{2/W}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Hazardous Ballista.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Hazardous Ballista.jpg"
                         }
     },
     {
@@ -1979,7 +1979,7 @@
         "mana_cost":  "{5}{W/U}{W/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Good Parenting.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Good Parenting.jpg"
                         }
     },
     {
@@ -1987,7 +1987,7 @@
         "mana_cost":  "{5}{R/G}{R/G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/End the Lies.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/End the Lies.jpg"
                         }
     },
     {
@@ -1995,7 +1995,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Evident Scarring.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Evident Scarring.jpg"
                         }
     },
     {
@@ -2003,7 +2003,7 @@
         "mana_cost":  "{2}{B/G}{B/G}",
         "type":  "Land Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Wounded Tree.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Wounded Tree.jpg"
                         }
     },
     {
@@ -2011,7 +2011,7 @@
         "mana_cost":  "{6}{G}{G}",
         "type":  "Land Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Field Beast.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Field Beast.jpg"
                         }
     },
     {
@@ -2019,7 +2019,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Verified Source.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Verified Source.jpg"
                         }
     },
     {
@@ -2027,7 +2027,7 @@
         "mana_cost":  "{1}{R/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Truth-Seeker Elf.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Truth-Seeker Elf.jpg"
                         }
     },
     {
@@ -2035,7 +2035,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Corpse-Littered Battlefront.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Corpse-Littered Battlefront.jpg"
                         }
     },
     {
@@ -2043,7 +2043,7 @@
         "mana_cost":  "{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Spellwhip.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Spellwhip.jpg"
                         }
     },
     {
@@ -2051,7 +2051,7 @@
         "mana_cost":  "{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Fiery Bite.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Fiery Bite.jpg"
                         }
     },
     {
@@ -2059,7 +2059,7 @@
         "mana_cost":  "{W}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Feather Pollen.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Feather Pollen.jpg"
                         }
     },
     {
@@ -2067,7 +2067,7 @@
         "mana_cost":  "{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Shudders From Below.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Shudders From Below.jpg"
                         }
     },
     {
@@ -2075,7 +2075,7 @@
         "mana_cost":  "{1}{W/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Newborn Nid.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Newborn Nid.jpg"
                         }
     },
     {
@@ -2083,7 +2083,7 @@
         "mana_cost":  "{2}{U/R}{U/R}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/The Moment.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/The Moment.jpg"
                         }
     },
     {
@@ -2091,7 +2091,7 @@
         "mana_cost":  "{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Conspicuous Pyromaniac.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Conspicuous Pyromaniac.jpg"
                         }
     },
     {
@@ -2099,7 +2099,7 @@
         "mana_cost":  "{R/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Crazed Hopper.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Crazed Hopper.jpg"
                         }
     },
     {
@@ -2107,7 +2107,7 @@
         "mana_cost":  "{2}{B}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Queen's Command.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Queen's Command.jpg"
                         }
     },
     {
@@ -2115,7 +2115,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Merciless Birth.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Merciless Birth.jpg"
                         }
     },
     {
@@ -2123,7 +2123,7 @@
         "mana_cost":  "{R/W}{R/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Rambunny.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Rambunny.jpg"
                         }
     },
     {
@@ -2131,7 +2131,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Overt Vaporling.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Overt Vaporling.jpg"
                         }
     },
     {
@@ -2139,7 +2139,7 @@
         "mana_cost":  "{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Obvious Ambusher.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Obvious Ambusher.jpg"
                         }
     },
     {
@@ -2147,7 +2147,7 @@
         "mana_cost":  "{G}{G}{G}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Brazen Confrontation.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Brazen Confrontation.jpg"
                         }
     },
     {
@@ -2155,7 +2155,7 @@
         "mana_cost":  "{1}{U}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/From a Mile Away.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/From a Mile Away.jpg"
                         }
     },
     {
@@ -2163,7 +2163,7 @@
         "mana_cost":  "{1}{G/U}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Enveloping Arcana.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Enveloping Arcana.jpg"
                         }
     },
     {
@@ -2171,7 +2171,7 @@
         "mana_cost":  "{G/U}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Infectious Mutagen.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Infectious Mutagen.jpg"
                         }
     },
     {
@@ -2179,7 +2179,7 @@
         "mana_cost":  "{R/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Proud Fangirl.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Proud Fangirl.jpg"
                         }
     },
     {
@@ -2187,7 +2187,7 @@
         "mana_cost":  "{4}{U}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Synthesis Hulk.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Synthesis Hulk.jpg"
                         }
     },
     {
@@ -2195,7 +2195,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Flit-Cloud.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Flit-Cloud.jpg"
                         }
     },
     {
@@ -2203,7 +2203,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Chest-Jutting Guard.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Chest-Jutting Guard.jpg"
                         }
     },
     {
@@ -2211,7 +2211,7 @@
         "mana_cost":  "{3}{U}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Bravening Crab.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Bravening Crab.jpg"
                         }
     },
     {
@@ -2219,7 +2219,7 @@
         "mana_cost":  "{3}{B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Fumble-Finger Necromaniac.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Fumble-Finger Necromaniac.jpg"
                         }
     },
     {
@@ -2227,7 +2227,7 @@
         "mana_cost":  "",
         "type":  "Legendary Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Elder Warptree.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Elder Warptree.jpg"
                         }
     },
     {
@@ -2235,7 +2235,7 @@
         "mana_cost":  "{3}{B}{B}{B}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Impending Despir.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Impending Despir.jpg"
                         }
     },
     {
@@ -2243,7 +2243,7 @@
         "mana_cost":  "{1}{R/W}{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/The Puny Rise Up.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/The Puny Rise Up.jpg"
                         }
     },
     {
@@ -2251,7 +2251,7 @@
         "mana_cost":  "{R}{R}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Slow-Moving Projectile.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Slow-Moving Projectile.jpg"
                         }
     },
     {
@@ -2259,7 +2259,7 @@
         "mana_cost":  "{4}{G}{G}{G}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Spirit of Growth.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Spirit of Growth.jpg"
                         }
     },
     {
@@ -2267,7 +2267,7 @@
         "mana_cost":  "{2}{B}{B}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Shade of Acceptance.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Shade of Acceptance.jpg"
                         }
     },
     {
@@ -2275,7 +2275,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Forest of Eternal Autumn.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Forest of Eternal Autumn.jpg"
                         }
     },
     {
@@ -2283,7 +2283,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Cloud Ruins.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Cloud Ruins.jpg"
                         }
     },
     {
@@ -2291,7 +2291,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Dream Glade.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Dream Glade.jpg"
                         }
     },
     {
@@ -2299,7 +2299,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Rabbit Family Farm.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Rabbit Family Farm.jpg"
                         }
     },
     {
@@ -2307,7 +2307,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Boiling Labworks.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Boiling Labworks.jpg"
                         }
     },
     {
@@ -2315,7 +2315,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Icarus' Resting Place.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Icarus' Resting Place.jpg"
                         }
     },
     {
@@ -2323,7 +2323,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Foggy Beachfront.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Foggy Beachfront.jpg"
                         }
     },
     {
@@ -2331,7 +2331,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Furnace of the Edge.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Furnace of the Edge.jpg"
                         }
     },
     {
@@ -2339,7 +2339,7 @@
         "mana_cost":  "",
         "type":  "Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Ancient Tidepools.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Ancient Tidepools.jpg"
                         }
     },
     {
@@ -2347,7 +2347,7 @@
         "mana_cost":  "{1}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Territorial Toad.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Territorial Toad.jpg"
                         }
     },
     {
@@ -2355,7 +2355,7 @@
         "mana_cost":  "{2}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Tawnty the Evidence-Burner.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Tawnty the Evidence-Burner.jpg"
                         }
     },
     {
@@ -2363,7 +2363,7 @@
         "mana_cost":  "{1}{U}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Assimilamorph.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Assimilamorph.jpg"
                         }
     },
     {
@@ -2371,7 +2371,7 @@
         "mana_cost":  "{2}{U/B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Nate and Tate.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Nate and Tate.jpg"
                         }
     },
     {
@@ -2379,7 +2379,7 @@
         "mana_cost":  "{R}{G}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Outgrow.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Outgrow.jpg"
                         }
     },
     {
@@ -2387,7 +2387,7 @@
         "mana_cost":  "{3}{B/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Twin-Stalk Spore.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Twin-Stalk Spore.jpg"
                         }
     },
     {
@@ -2395,7 +2395,7 @@
         "mana_cost":  "{2}{2/W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Collapsing Fortress.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Collapsing Fortress.jpg"
                         }
     },
     {
@@ -2403,7 +2403,7 @@
         "mana_cost":  "{U}{U}{R}{R}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Coltz, Jumpspark Mage.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Coltz, Jumpspark Mage.jpg"
                         }
     },
     {
@@ -2411,7 +2411,7 @@
         "mana_cost":  "{4}{B}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Cache Dragon.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Cache Dragon.jpg"
                         }
     },
     {
@@ -2419,7 +2419,7 @@
         "mana_cost":  "{1}{W/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Acrobatic Stunt.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Acrobatic Stunt.jpg"
                         }
     },
     {
@@ -2427,7 +2427,7 @@
         "mana_cost":  "{U/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Intrusive Thoughts.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Intrusive Thoughts.jpg"
                         }
     },
     {
@@ -2435,7 +2435,7 @@
         "mana_cost":  "{U/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Triumphant Shout.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Triumphant Shout.jpg"
                         }
     },
     {
@@ -2443,7 +2443,7 @@
         "mana_cost":  "{1}{U/R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Cocky Rooster.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Cocky Rooster.jpg"
                         }
     },
     {
@@ -2451,7 +2451,7 @@
         "mana_cost":  "{U}",
         "type":  "Sorcery ",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/A Good Cry.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/A Good Cry.jpg"
                         }
     },
     {
@@ -2459,7 +2459,7 @@
         "mana_cost":  "",
         "type":  "Enchantment Land",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Hall of Chimes.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Hall of Chimes.jpg"
                         }
     },
     {
@@ -2467,7 +2467,7 @@
         "mana_cost":  "{1}{G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Extentoad.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Extentoad.jpg"
                         }
     },
     {
@@ -2475,7 +2475,7 @@
         "mana_cost":  "{3}{W}{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Daycare Grand Opening.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Daycare Grand Opening.jpg"
                         }
     },
     {
@@ -2483,7 +2483,7 @@
         "mana_cost":  "{U}{U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Political Divination.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Political Divination.jpg"
                         }
     },
     {
@@ -2491,7 +2491,7 @@
         "mana_cost":  "{W/B}{W/B}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Draining Relationship.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Draining Relationship.jpg"
                         }
     },
     {
@@ -2499,7 +2499,7 @@
         "mana_cost":  "{2}{W/B}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Crystal, Naturalist.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Crystal, Naturalist.jpg"
                         }
     },
     {
@@ -2507,7 +2507,7 @@
         "mana_cost":  "{1}{B}",
         "type":  "Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Darkest Heart.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Darkest Heart.jpg"
                         }
     },
     {
@@ -2515,7 +2515,7 @@
         "mana_cost":  "{W/U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Let Go.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Let Go.jpg"
                         }
     },
     {
@@ -2523,7 +2523,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Never Too Late.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Never Too Late.jpg"
                         }
     },
     {
@@ -2531,7 +2531,7 @@
         "mana_cost":  "{1}",
         "type":  "Enchantment Artifact",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Silver-Thread Cloak.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Silver-Thread Cloak.jpg"
                         }
     },
     {
@@ -2539,7 +2539,7 @@
         "mana_cost":  "{2}{R}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Aggressor Captain.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Aggressor Captain.jpg"
                         }
     },
     {
@@ -2547,7 +2547,7 @@
         "mana_cost":  "{1}{W/B}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Nomad Shade.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Nomad Shade.jpg"
                         }
     },
     {
@@ -2555,7 +2555,7 @@
         "mana_cost":  "{3}{W}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Avus Father.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Avus Father.jpg"
                         }
     },
     {
@@ -2563,7 +2563,7 @@
         "mana_cost":  "{1}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Precocious Bolt.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Precocious Bolt.jpg"
                         }
     },
     {
@@ -2571,7 +2571,7 @@
         "mana_cost":  "{B}",
         "type":  "Instant ",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Determinate.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Determinate.jpg"
                         }
     },
     {
@@ -2579,7 +2579,7 @@
         "mana_cost":  "{1}{U/B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Father's Will.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Father's Will.jpg"
                         }
     },
     {
@@ -2587,7 +2587,7 @@
         "mana_cost":  "{W}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Conniving Pyromiggy.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Conniving Pyromiggy.jpg"
                         }
     },
     {
@@ -2595,7 +2595,7 @@
         "mana_cost":  "{B}{B}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mourning Morning.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mourning Morning.jpg"
                         }
     },
     {
@@ -2603,7 +2603,7 @@
         "mana_cost":  "{W}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Humble.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Humble.jpg"
                         }
     },
     {
@@ -2611,7 +2611,7 @@
         "mana_cost":  "{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Heel Swipe.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Heel Swipe.jpg"
                         }
     },
     {
@@ -2619,7 +2619,7 @@
         "mana_cost":  "{B/R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Pick Off.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Pick Off.jpg"
                         }
     },
     {
@@ -2627,7 +2627,7 @@
         "mana_cost":  "{4}{R/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Fearful Megafauna.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Fearful Megafauna.jpg"
                         }
     },
     {
@@ -2635,7 +2635,7 @@
         "mana_cost":  "{G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Absorb the Mist.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Absorb the Mist.jpg"
                         }
     },
     {
@@ -2643,7 +2643,7 @@
         "mana_cost":  "{1}{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Make Amends.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Make Amends.jpg"
                         }
     },
     {
@@ -2651,7 +2651,7 @@
         "mana_cost":  "{4}{W/B}{W/B}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Quad-Palm Jerry.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Quad-Palm Jerry.jpg"
                         }
     },
     {
@@ -2659,7 +2659,7 @@
         "mana_cost":  "{1}{U}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Storm-Seed Fairy.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Storm-Seed Fairy.jpg"
                         }
     },
     {
@@ -2667,7 +2667,7 @@
         "mana_cost":  "{1}{R/G}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Grit Teeth.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Grit Teeth.jpg"
                         }
     },
     {
@@ -2675,7 +2675,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Knowledge Parasite.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Knowledge Parasite.jpg"
                         }
     },
     {
@@ -2683,7 +2683,7 @@
         "mana_cost":  "{U}{R}",
         "type":  "Enchantment Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Unstable Hydra.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Unstable Hydra.jpg"
                         }
     },
     {
@@ -2691,7 +2691,7 @@
         "mana_cost":  "{U}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Forced Experiment.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Forced Experiment.jpg"
                         }
     },
     {
@@ -2699,7 +2699,7 @@
         "mana_cost":  "{3}{R}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Insistent Assistant.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Insistent Assistant.jpg"
                         }
     },
     {
@@ -2707,7 +2707,7 @@
         "mana_cost":  "{6}{U}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mental Tripwire.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mental Tripwire.jpg"
                         }
     },
     {
@@ -2715,7 +2715,7 @@
         "mana_cost":  "{3}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Jealousy Flare.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Jealousy Flare.jpg"
                         }
     },
     {
@@ -2723,7 +2723,7 @@
         "mana_cost":  "{2}{R/G}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Gode the Gloating Goat.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Gode the Gloating Goat.jpg"
                         }
     },
     {
@@ -2731,7 +2731,7 @@
         "mana_cost":  "{R}{R}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Ravenous Studies.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Ravenous Studies.jpg"
                         }
     },
     {
@@ -2739,7 +2739,7 @@
         "mana_cost":  "{3}{B}{G}{W}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Titan of the Grove.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Titan of the Grove.jpg"
                         }
     },
     {
@@ -2747,7 +2747,7 @@
         "mana_cost":  "{R}{R}{G}{G}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/The Raze.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/The Raze.jpg"
                         }
     },
     {
@@ -2755,7 +2755,7 @@
         "mana_cost":  "{5}{R}{R}",
         "type":  "Sorcery",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Vitriolic Ritual.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Vitriolic Ritual.jpg"
                         }
     },
     {
@@ -2763,7 +2763,7 @@
         "mana_cost":  "{2}{G/W}",
         "type":  "Artifact Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Crumblemite Barrier.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Crumblemite Barrier.jpg"
                         }
     },
     {
@@ -2771,7 +2771,7 @@
         "mana_cost":  "{1}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Unfocused Summoner.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Unfocused Summoner.jpg"
                         }
     },
     {
@@ -2779,7 +2779,7 @@
         "mana_cost":  "{1}{U}{U}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Thriso, One With Water.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Thriso, One With Water.jpg"
                         }
     },
     {
@@ -2787,7 +2787,7 @@
         "mana_cost":  "{4}{G/U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Prompting Emu.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Prompting Emu.jpg"
                         }
     },
     {
@@ -2795,7 +2795,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Not Quite Myself.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Not Quite Myself.jpg"
                         }
     },
     {
@@ -2803,7 +2803,7 @@
         "mana_cost":  "{2}{B}",
         "type":  "Legendary Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Lonkru, Self-Coronated.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Lonkru, Self-Coronated.jpg"
                         }
     },
     {
@@ -2811,7 +2811,7 @@
         "mana_cost":  "{2}{U}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Prized Secret.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Prized Secret.jpg"
                         }
     },
     {
@@ -2819,7 +2819,7 @@
         "mana_cost":  "{X}{G}{G}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Sudden Sprouting.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Sudden Sprouting.jpg"
                         }
     },
     {
@@ -2827,7 +2827,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Creature",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Evacugator.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Evacugator.jpg"
                         }
     },
     {
@@ -2835,7 +2835,7 @@
         "mana_cost":  "{3}{U}{R}",
         "type":  "Artifcat",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Manaformer.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Manaformer.jpg"
                         }
     },
     {
@@ -2843,7 +2843,7 @@
         "mana_cost":  "{3}{U}{W}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Mental Lockdown.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Mental Lockdown.jpg"
                         }
     },
     {
@@ -2851,7 +2851,7 @@
         "mana_cost":  "{3}{U}",
         "type":  "Enchantment",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Trigger Word.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Trigger Word.jpg"
                         }
     },
     {
@@ -2859,7 +2859,7 @@
         "mana_cost":  "{3}{U}{R}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Exaggerate Effect.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Exaggerate Effect.jpg"
                         }
     },
     {
@@ -2867,7 +2867,7 @@
         "mana_cost":  "{W}",
         "type":  "Instant",
         "image_uris":  {
-                            "en":  "https://github.com/Roey-Shap/CSTestSet/blob/main/Playtest_Card_Images_TestSet/Stand Strong.jpg"
+                            "en":  "https://github.com/Roey-Shap/CSTestSet/tree/main/Playtest_Card_Images_TestSet/Stand Strong.jpg"
                         }
     }
 ]
