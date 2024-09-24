@@ -1,10 +1,10 @@
-<?xml version="ZZZ" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
     <cockatrice_carddatabase version="3">
     <sets>
     <set>
     <name>ZZZ</name>
     <longname>TestSet</longname>
-    <releasedate>2024-09-08</releasedate>
+    <releasedate>2024-09-24</releasedate>
     <settype>Custom</settype>
     </set>
     </sets>
@@ -419,7 +419,7 @@ Exile Evaporating Wish from your hand: add {u}{r}.</text>
     <tablerow>0</tablerow>
     <text>Flash
 When Flash Fiend enters, target opponent reveals a card.
-Plainscycling {1}{w}</text>
+Cycling {1}{w}</text>
 </card>
 
 <card>
@@ -921,7 +921,7 @@ Basic lands you control have, "Whenever you reveal a card from your hand and thi
 	<pt>1/1</pt>
     <tablerow>0</tablerow>
     <text>Vigilance
-Duck - Skitterjill gets +0/+1 until end of turn. Target creature it's ducking behind gets protection from the color of your choice until end of turn.</text>
+Duck - Skitterjill gets +0/+1 until end of turn. Target creature it's ducking behind gets protection from the color of your choice.</text>
 </card>
 
 <card>
@@ -1326,7 +1326,7 @@ Reveal a card: target opponent reveals a card. Activate only once per turn.</tex
 	<pt>2/2</pt>
     <tablerow>0</tablerow>
     <text>Landfall - Whenever a land enters under your control, you may tap target creature or artifact.
-Reveal Navigator Captain from your hand: search your library for a plains, reveal it, and put it into your hand. Then shuffle.</text>
+Reveal Navigator Captain from your hand: search your library for a basic plains and put it into your hand. Then shuffle.</text>
 </card>
 
 <card>
@@ -1612,7 +1612,7 @@ Exile target permanent or spell. </text>
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Scry 6.
-If Accept the Facts is countered, draw a card as it is being put into the graveyard.</text>
+If Openest Mind is countered, draw a card as it is being put into the graveyard.</text>
 </card>
 
 <card>
@@ -1915,7 +1915,7 @@ Islands you control have "{1}, {t}: tap target permanent."</text>
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Until end of turn, whenever you scry one or more, you may tap or untap that many target creatures or artifacts.
-Swampcycling {2}</text>
+Cycling {2}</text>
 </card>
 
 <card>
@@ -2077,8 +2077,7 @@ When Feeding Wraith enters, destroy up to one target enchantment. If you do, mak
     <type>Instant</type>
     <tablerow>0</tablerow>
     <text>Revel in Might costs X less to cast, where X is the greatest power among creatures you control. 
-Target creature you control gains trample and +X/+0 until end of turn, and then fights up to two target creatures you don't control (simultaneously, as if they both blocked it). 
-Forestcycling {g}</text>
+Target creature you control gains trample and +X/+0 until end of turn, and then fights up to two target creatures you don't control (simultaneously, as if they both blocked it). </text>
 </card>
 
 <card>
@@ -2181,7 +2180,7 @@ Duck - Unconfident Pute loses defender until end of turn. Untap it. Activate onl
     <color>WR</color>
     <manacost>WR</manacost>
     <type>Creature - Dwarf Imp</type>
-	<pt>2/1</pt>
+	<pt>2/2</pt>
     <tablerow>0</tablerow>
     <text>Duck - target creature Rallying Wimp is ducking behind gets +1/+0 and gains haste until end of turn.
 Whenever a creature you control with duck enters, you may pay {1} and untap Rallying Wimp.
@@ -2412,7 +2411,8 @@ Enchanted creature gets +1/+1.</text>
     <manacost>W</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Target creature gains indestructible until end of turn. If it's tapped, make a colorless artifact token named "Dung" with, "{t}, sacrifice this artifact. Target creature can't attack this turn." Untap that creature.</text>
+    <text>Target creature gains indestructible until end of turn. If it's tapped, make a colorless artifact token named "Dung" with, "{t}, sacrifice this artifact. Target creature can't attack this turn." 
+Untap that creature.</text>
 </card>
 
 <card>
@@ -2827,7 +2827,7 @@ When Glittering Starchild dies, add {w}, {b}, or {r}.</text>
     <manacost>4</manacost>
     <type>Artifact</type>
     <tablerow>0</tablerow>
-    <text>You may cast this card face down for {2}. Turn it face up on a later turn for {1}.
+    <text>You may cast this card face down for {1}. Turn it face up on a later turn for {1}.
 When this card enters face up or is turned face up, destroy target creature with trample or total power and toughness above 5.
 {2}, sacrifice Gargantuan Nail Trap: Draw a card.</text>
 </card>
@@ -3605,7 +3605,7 @@ Reveal an unrevealed card from your hand: untap Cocky Rooster. It gets +1/+0 unt
     <manacost>U</manacost>
     <type>Sorcery </type>
     <tablerow>0</tablerow>
-    <text>Choose 1--
+    <text>BRUHB RUASDASDChoose 1--
 - Target creature gets -1/-1 until end of turn. Tap it. 
 - Target creature you control gets -2/-2 until end of turn and target creature gets -5/-5 until end of turn.</text>
 </card>
@@ -3772,7 +3772,7 @@ Enchantment spells you cast cost {1} less to cast. </text>
     <manacost>1R</manacost>
     <type>Instant</type>
     <tablerow>0</tablerow>
-    <text>Reveal Precocious Bolt from your hand: It deals 1 damage to you and target creature.
+    <text>Reveal Precocious Bolt from your hand: It deals 1 damage to you and target player and 1 damage to target creature they control.
 Precocious Bolt deals 1 damage to target player and 1 damage to target creature they control.</text>
 </card>
 
@@ -4050,8 +4050,7 @@ The Raze gets +1/+1 for each revealed card in all players' hands and other Trans
     <type>Sorcery</type>
     <tablerow>0</tablerow>
     <text>Create a 4/4 red Dragon creature token with flying. 
-Rivalstorm (Copy this spell for each spell an opponent cast this turn.)
-Mountaincycling {r}</text>
+Rivalstorm (Copy this spell for each spell an opponent cast this turn.)</text>
 </card>
 
 <card>
@@ -4075,7 +4074,7 @@ Whenever Crumblemite Barrier blocks, put a -1/-1 counter on it. Create a 0/1 col
 	<pt>1/2</pt>
     <tablerow>0</tablerow>
     <text>Ward - {1}, Reveal a card
-At the beginning of your endstep, create a 1/1 blue and white Bird creature token with flying unless an opponent has cast a spell this turn. </text>
+At the beginning of your endstep, if an opponent has not cast a spell this turn, create a 1/1 blue and white Bird creature token with flying. </text>
 </card>
 
 <card>
@@ -4190,7 +4189,8 @@ At the beginning of each opponents' upkeep, they may reveal a card.</text>
     <manacost>3U</manacost>
     <type>Enchantment</type>
     <tablerow>0</tablerow>
-    <text>When Trigger Word enters, put any number of charge counters on it. Target opponent reveals a card. Then pick a revealed card from their hand and exile it.
+    <text>Trigger word enters with any number of charge counters on it.
+Target opponent reveals a card. Then pick a revealed card from their hand and exile it.
 Whenever you cast a spell with mana value equal to the number of charge counters on Trigger Word, the exiled spell's owner casts a copy of it and you add {u}.
 {8}: Sacrifice Trigger Word. Any player may activate this ability.</text>
 </card>
