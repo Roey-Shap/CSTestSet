@@ -1,4 +1,4 @@
-September 24, 2024 at 19:38
+September 24, 2024 at 20:29
 Welcome to ChickenSnake, for fast custom playtest cards!
 [User input]: y
 
@@ -222,6 +222,8 @@ Frozen Dragon's text was too large to fit properly.
 Regrowl's text is too large for default font size. Resizing...
 Void Dweller's text is too large for default font size. Resizing...
 Void Dweller's text was too large to fit properly.
+Revel in Might's text is too large for default font size. Resizing...
+Revel in Might's text was too large to fit properly.
 Aisul, the Solitary Flame's text is too large for default font size. Resizing...
 Rallying Wimp's text is too large for default font size. Resizing...
 Up-Front Mercenary's text is too large for default font size. Resizing...
@@ -244,10 +246,10 @@ Trigger Word's text was too large to fit properly.
 
 Done!
 
-Program execution time: 11.56 seconds
+Program execution time: 9.20 seconds
 =========================================
 Generated card images at:
->>>   C:\Users\Roey Shapiro\Desktop\My Outputs\CSTestSet\Playtest_Card_Images_Test Set 1234
+>>>   C:\Users\Roey Shapiro\Desktop\My Outputs\CSTestSet\Playtest_Card_Images_TestSet
 
 Cockatrice set file (.xml) and Drafting file (.txt) generated at:
 >>>   C:\Users\Roey Shapiro\Desktop\My Outputs\CSTestSet
